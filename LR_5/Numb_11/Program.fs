@@ -10,7 +10,7 @@ let YourResponse language =
     |"Python" -> printfn "%s" "ну все ясно ты дундук"
     |_ -> printfn "%s" "ну нет так нет че бубнить то"
 
-[<EntryPoint>]
+//[<EntryPoint>]
 let main argv =
     printfn "Какую языку предпочитаете?"
     let x = Console.ReadLine()
