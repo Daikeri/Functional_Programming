@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HtoKKgpGrx+DcUtLzlD+rgiMAH/gVvEa9Wepr5TXG8XOKfd7ZLtqwrvfwckh3AhKlXVmcxSgHNHjG4cwG14iQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Дмитрий\\source\\repos\\F#\\Functional_Programming\\LR_5\\Number_19\\Number_19.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дмитрий\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
