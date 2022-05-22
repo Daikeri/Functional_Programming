@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fkhmDaFe/wfbDiqi5j84sRsracGJSxp8gzuWrsyLRUU5mK/VcHwmhC0HJD0mkZZmdB95c7ceSMqza0mq5MyDvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Дмитрий\\source\\repos\\F#\\Functional_Programming\\LR_8\\Number_3.6\\Number_3.6.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дмитрий\\.nuget\\packages\\fparsec\\1.1.1\\fparsec.1.1.1.nupkg.sha512",
+    "C:\\Users\\Дмитрий\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512",
+    "C:\\Users\\Дмитрий\\.nuget\\packages\\system.valuetuple\\4.4.0\\system.valuetuple.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
